@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/eton.png</file>
+        <file>image/add.png</file>
+        <file>image/add-line_horizontal.png</file>
+        <file>image/add-line_vertical.png</file>
+        <file>image/array_down.png</file>
+        <file>image/back.png</file>
+        <file>image/black.css</file>
+        <file>image/blue.css</file>
+        <file>image/checkbox_checked.png</file>
+        <file>image/checkbox_unchecked.png</file>
+        <file>image/error.png</file>
+        <file>image/Font Awesome Cheatsheet.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/gnome-run.png</file>
+        <file>image/gray.css</file>
+        <file>image/gtk-delete.png</file>
+        <file>image/gtk-refresh.png</file>
+        <file>image/gtk-save.png</file>
+        <file>image/gtk-save-as.png</file>
+        <file>image/info.png</file>
+        <file>image/media-record.png</file>
+        <file>image/navy.css</file>
+        <file>image/player_pause.png</file>
+        <file>image/player_play.png</file>
+        <file>image/player_stop.png</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/question.png</file>
+        <file>image/radio_normal.png</file>
+        <file>image/radio_selected.png</file>
+        <file>image/sub-line_horizontal.png</file>
+        <file>image/sub-line_vertical.png</file>
+        <file>image/undo.png</file>
+        <file>image/xfce-system-exit.png</file>
+        <file>image/eton.ico</file>
+        <file>image/ball_off.ico</file>
+        <file>image/ball_on.ico</file>
+        <file>image/confirm.ico</file>
+        <file>image/database.ico</file>
+        <file>image/login.ico</file>
+        <file>image/map.ico</file>
+        <file>image/search.ico</file>
+        <file>image/server_setting.ico</file>
+        <file>image/admin.ico</file>
+        <file>image/forward.png</file>
+        <file>image/group.ico</file>
+        <file>image/key.ico</file>
+        <file>image/locker.ico</file>
+        <file>image/port.ico</file>
+        <file>image/record_rizhi.ico</file>
+        <file>image/fist.ico</file>
+        <file>image/reset.ico</file>
+        <file>image/Security_Check.ico</file>
+        <file>image/software_update_available.ico</file>
+    </qresource>
+</RCC>
